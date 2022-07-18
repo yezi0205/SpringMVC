@@ -6,4 +6,7 @@ package com.kuang.controller;
  * @author Ye zi
  */
 public class gitTest {
+  public static void main(String[] args) {
+        System.out.println("12345");
+    }
 }
